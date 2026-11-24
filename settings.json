@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
-    "port": 25565,
+    "ip": "RoyalSmp-rWKi.aternos.me",
+    "port": 19132,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "SoloPlayz"
     },
     "anti-afk": {
